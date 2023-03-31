@@ -1,0 +1,58 @@
+#intro_section{
+    display: flex;
+    flex-direction: row;
+}
+#name{ 
+    color:#161B40;
+}
+#email{
+    color:#161B40;
+}
+#personal_image {
+    width: 200px;
+    border-radius: 115px;
+    border-style: solid;
+    border-width: 0px;
+}
+#education_heading{
+    color:#161B40;
+}
+#experience_heading{
+    color:#161B40;
+}
+#projects_title{
+    color:#161B40;
+}
+.table_heading {
+    color: black;
+    font-family: "Roboto";
+    font-size: 20px;
+    padding: 10px;
+    margin-right: 25px;
+}
+.table_data {
+    color: #161B40;
+    font-family: "Roboto";
+    font-size: 15px;
+    margin-right: 10px;
+    width: 200px;
+    text-align: center;
+}
+.experience_table_heading {
+    color: black;
+    font-family: "Roboto";
+    font-size: 20px;
+    padding: 10px;
+    margin-right: 25px;
+}
+.experience_table_data {
+    color: #161B40;
+    font-family: "Roboto";
+    font-size: 15px;
+    margin-right: 10px;
+    width: 200px;
+    text-align: center;
+}
+#projects_title {
+    color: #161B40;
+}
